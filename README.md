@@ -9,8 +9,8 @@ My name is Nima Jokar and I love coding ...
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
 ## 🍒 Social Media
-![Twitter](https://img.shields.io/twitter/follow/nimiologyy?style=social)
-![Youtybe](https://img.shields.io/youtube/channel/subscribers/UCKe5HcYi4v14TjF0BwEoM0w?style=social)
+[![Twitter](https://img.shields.io/twitter/follow/nimiologyy?style=social)](https://twitter.com/nimiologyy)
+[![Youtybe](https://img.shields.io/youtube/channel/subscribers/UCKe5HcYi4v14TjF0BwEoM0w?style=social)](https://www.youtube.com/channel/UCKe5HcYi4v14TjF0BwEoM0w)
 
 ##  &#x1f4c8; GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimiology&show_icons=true&theme=tokyonight)
