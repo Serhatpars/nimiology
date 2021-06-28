@@ -15,9 +15,6 @@ My name is Nima Jokar and I love coding ...
 ##  &#x1f4c8; GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimiology&show_icons=true&theme=tokyonight)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimiology&repo=telegram_spotify_downloader_bot&theme=tokyonight)](https://github.com/nimiology/telegram_spotify_downloader_bot)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=nimiology&repo=Musicstreamingservice&theme=tokyonight)](https://github.com/nimiology/Musicstreamingservice)
 
 
 <!--
