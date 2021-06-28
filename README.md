@@ -8,7 +8,7 @@ My name is Nima Jokar and I love coding ...
 ![editor](https://img.shields.io/badge/Editor-IntelliJ_IDEA-informational?style=flat&logo=intellij-idea&logoColor=white&color=2bbc8a)
 ![Python](https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a)
 
-## Social Media
+## 🍒 Social Media
 ![Twitter](https://img.shields.io/twitter/follow/nimiologyy?style=social)
 ![Youtybe](https://img.shields.io/youtube/channel/subscribers/UCKe5HcYi4v14TjF0BwEoM0w?style=social)
 
