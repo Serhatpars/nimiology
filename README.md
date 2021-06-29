@@ -1,5 +1,5 @@
 # Hey Guys ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">
-My name is Nima Jokar and I love coding ...
+My name is Nima and I love coding ...
 
 ## 🔧 Technologies & Tools
 ![windows](https://img.shields.io/badge/OS-windows-informational?style=flat&logo=Windows&logoColor=white&color=2bbc8a)
