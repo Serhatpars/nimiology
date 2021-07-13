@@ -1,4 +1,4 @@
-# Hey Guys ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">
+# Hey Guys ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">👼
 My name is Nima and I love coding ...
 
 ## 🔧 Technologies & Tools
@@ -11,6 +11,7 @@ My name is Nima and I love coding ...
 ## 🍒 Social Media
 [![Twitter](https://img.shields.io/twitter/follow/nimiologyy?style=social)](https://twitter.com/nimiologyy)
 [![Youtybe](https://img.shields.io/youtube/channel/subscribers/UCKe5HcYi4v14TjF0BwEoM0w?style=social)](https://www.youtube.com/channel/UCKe5HcYi4v14TjF0BwEoM0w)
+[![chatroom icon](https://patrolavia.github.io/telegram-badge/chat.png)](https://t.me/nimajowkar)
 
 ##  &#x1f4c8; GitHub Stats
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=nimiology&show_icons=true&theme=tokyonight)
