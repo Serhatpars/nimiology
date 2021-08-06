@@ -1,7 +1,7 @@
 # Hey Guys ! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif"  width="30px">👼
 My name is <b>Nima</b>, I love <b>Coding</b>
 
-🔭 I’m currently working on <a href="https://github.com/nimiology/Watchlist">Watchlist</a>
+🔭 I’m currently working on Watchlist
 
 🌱 I’m currently learning Java
 
